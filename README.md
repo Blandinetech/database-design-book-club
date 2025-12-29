@@ -8,7 +8,7 @@ The goal was to analyze non-structured information and organize it into a clear 
 
 ## Source Data
 
-The data views shown in the `views` folder represent the type of raw, reporting-style data used as a starting point for the database design process.
+The data views shown in the `Views` folder represent the type of raw, reporting-style data used as a starting point for the database design process.
 
 These views contain unstructured and repeated information that required analysis and restructuring in order to produce a normalized data model.
 
